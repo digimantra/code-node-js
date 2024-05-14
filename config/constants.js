@@ -1,0 +1,15 @@
+exports.Constants = {
+    API_PATH: 'api/',
+    NAME: 'name',
+    EMAIL: 'email',
+    PASSWORD: 'password',
+    PHONE: 'phone',
+    AUTHORIZATION: 'Authorization',
+    BEARER_SPACE: 'Bearer ',
+    BEARER: 'Bearer',
+    CONTENT_TYPE: 'content-type',
+    MULTIPART_FORM_DATA: 'multipart/form-data',
+    PASSWORD_LENGTH: 8,
+    SINGLE: 'single',
+    MULTIPLE: 'multiple',
+}
